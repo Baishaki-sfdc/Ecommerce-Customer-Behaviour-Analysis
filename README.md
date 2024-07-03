@@ -4,7 +4,7 @@ Customer Behavior Analysis is a process that involves examining and understandin
 
 ## Steps 
 * Collect data related to customer interactions. It can include purchase history, website visits, social media engagement, customer feedback, and more.<br/>
-Identify and address data inconsistencies, missing values, and outliers to ensure the data’s quality and accuracy.<br/>
-Calculate basic statistics like mean, median, and standard deviation to summarize data.<br/>
-Create visualizations such as histograms, scatter plots, and bar charts to explore trends, patterns, and anomalies in the data.<br/>
-Use techniques like clustering to group customers based on common behaviours or characteristics.<br/>
+* Identify and address data inconsistencies, missing values, and outliers to ensure the data’s quality and accuracy.<br/>
+* Calculate basic statistics like mean, median, and standard deviation to summarize data.<br/>
+* Create visualizations such as histograms, scatter plots, and bar charts to explore trends, patterns, and anomalies in the data.<br/>
+* Use techniques like clustering to group customers based on common behaviours or characteristics.<br/>
